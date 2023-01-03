@@ -1,0 +1,30 @@
+@-moz-document
+url-prefix(chrome://devtools/content/)
+{
+ .devtools-monospace {
+    font-family: 'Roboto', sans-serif; !important;
+   font-size: 14px !important;
+   line-height:1.5;
+ }
+}
+
+
+@-moz-document
+url-prefix(chrome://devtools/content/)
+{
+ .network-monitor {
+   font-family: 'Roboto', sans-serif; !important;
+   font-size: 14px !important;
+   line-height:1.5;
+ }
+}
+
+@-moz-document
+url-prefix(chrome://devtools/content/)
+{
+ .debugger {
+   font-family: 'Roboto', sans-serif; !important;
+   font-size: 14px !important;
+   line-height:1.5;
+ }
+}
